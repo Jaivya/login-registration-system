@@ -1,4 +1,4 @@
 # login-registration-system
-first git repository
+first git repository.
 <br>
 Author - Jaivya Chawla
